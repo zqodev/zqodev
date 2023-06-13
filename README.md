@@ -11,7 +11,7 @@
 <p>
   <picture class="ghStats">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gazkoo&theme=dracula&count_private=true&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=gazkoo&theme=cobalt&count_private=true&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
