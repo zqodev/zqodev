@@ -46,4 +46,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazkoo&theme=dracula&count_private=true" />
   </picture>
+
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gazkoo)](https://github.com/anuraghazra/github-readme-stats)
 </p>
