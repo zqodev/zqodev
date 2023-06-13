@@ -24,7 +24,7 @@
 <p>
   <picture class="streak">
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazkoo&theme=dracula"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazkoo&theme=transparent"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -37,7 +37,7 @@
 <p>
   <picture class="lang">
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gazkoo&theme=dracula&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gazkoo&theme=transparent&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
