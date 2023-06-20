@@ -1,4 +1,4 @@
-### Hi there, I'm **Gazkoo** 👋
+### Hi there, I'm **zqo** 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
