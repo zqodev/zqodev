@@ -48,39 +48,39 @@
 <p>
   <picture class="ghStats">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gazkoo&theme=transparent&count_private=true&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=zqodev&theme=transparent&count_private=true&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gazkoo&count_private=true&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=zqodev&count_private=true&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=gazkoo&theme=dracula&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zqodev&theme=dracula&count_private=true&show_icons=true" />
   </picture>
 </p>
 <p>
   <picture class="streak">
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazkoo&theme=transparent"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=zqodev&theme=transparent"
       media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazkoo"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gazkoo&theme=dracula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zqodev&theme=dracula" />
   </picture>
 </p>
 <p>
   <picture class="lang">
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gazkoo&theme=transparent&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&theme=transparent&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gazkoo&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazkoo&theme=dracula&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&theme=dracula&count_private=true" />
   </picture>
 </p>
