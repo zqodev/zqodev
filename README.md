@@ -76,7 +76,9 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&theme=dracula&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&theme=dracula&layout=donut)](https://github.com/zqodev/github-readme-stats)
+    
   </picture>
 </p>
 
