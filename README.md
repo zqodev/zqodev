@@ -40,19 +40,7 @@
 
 # 📊 GitHub Stats :
 
-<p>
-  <picture class="ghStats">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zqodev&theme=transparent&count_private=true&show_icons=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zqodev&count_private=true&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=zqodev&theme=dracula&count_private=true&show_icons=true" />
-  </picture>
-</p>
+[![Zqo GitHub stats](https://github-readme-stats.vercel.app/api?username=zqodev&theme=transparent&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs,issues)](https://github.com/zqodev/github-readme-stats)
 <p>
   <picture class="streak">
     <source 
@@ -67,20 +55,8 @@
   </picture>
 </p>
 <p>
-  <picture class="lang">
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&theme=transparent&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&theme=dracula&layout=donut)](https://github.com/zqodev/github-readme-stats)
-    
-  </picture>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zqodev&theme=transparent&layout=donut)](https://github.com/zqodev/github-readme-stats)
 
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302677696474683d31323030322673656374696f6e3d666f6f746572](https://github.com/zqodev/zqodev/assets/123120185/a45fbf30-104f-4dea-b41f-4babd28f92d2)
 
