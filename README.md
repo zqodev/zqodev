@@ -27,9 +27,9 @@
    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
    <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-   <img align="center" alt="SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
+   <img align="center" alt="SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg">
    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
    <img align="center" alt="CMake" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-plain.svg">
    <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
    <img align="center" alt="Putty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
