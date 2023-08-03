@@ -40,7 +40,7 @@
 
 # 📊 GitHub Stats :
 
-[![Zqo GitHub stats](https://github-readme-stats.vercel.app/api?username=zqodev&theme=transparent&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs,issues)](https://github.com/zqodev/github-readme-stats)
+[![Zqo GitHub stats](https://github-readme-stats.vercel.app/api?username=zqodev&theme=transparent&show_icons=true&include_all_commits=true&hide=contribs,issues)](https://github.com/zqodev/github-readme-stats)
 <p>
   <picture class="streak">
     <source 
