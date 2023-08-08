@@ -84,9 +84,7 @@
 ###
 
 <div align="center">
-  <a href="zqodev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  <img height="120" src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg"  />
 </div>
 
 ###
