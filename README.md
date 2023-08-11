@@ -84,6 +84,10 @@
 ###
 
 <div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=zqodev&label=Profile%20Views&color=1&icon=2&pretty=true" />
+</div>
+
+<div align="center">
   <img height="120" src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg"  />
 </div>
 
