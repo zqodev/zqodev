@@ -84,7 +84,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=zqodev&label=Profile%20Views&color=1&icon=2&pretty=true" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=zqodev&label=Profile%20Views&color=1&icon=2&pretty=true" />
+  </a>
 </div>
 
 <div align="center">
