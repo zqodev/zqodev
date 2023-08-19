@@ -18,7 +18,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,dart,c,cpp,rust,lua,html,css"/><br>
-    <img src="https://skillicons.dev/icons?i=sass,markdown,nodejs,mongodb,mysql,git,github,make,idea,linux"/><br>
+    <img src="https://skillicons.dev/icons?i=sass,markdown,nodejs,mongodb,mysql,git,github,idea,linux"/><br>
 </div>
 
 ###
