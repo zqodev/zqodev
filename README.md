@@ -14,18 +14,14 @@
 
 <h2 align="center">Technical Skills :</h2>
 
-###
-
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,dart,c,cpp,rust,lua,html,css"/><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,dart,c,rust,lua,html,css"/><br>
     <img src="https://skillicons.dev/icons?i=sass,markdown,nodejs,mongodb,mysql,git,github,idea,linux"/><br>
 </div>
 
 ###
 
 <h2 align="center">Stats :</h2>
-
-###
 
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=zqodev&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
@@ -35,8 +31,10 @@
 
 ###
 
+<h2 align="center">Goals :</h2>
+
 <div align="center">
-  <img src="https://www.codewars.com/users/zqodev/badges/large" />
+    
 </div>
 
 <div align="center">
