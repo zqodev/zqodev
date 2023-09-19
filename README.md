@@ -31,8 +31,6 @@
 
 ###
 
-<h2 align="center">Goals :</h2>
-
 <div align="center">
     
 </div>
