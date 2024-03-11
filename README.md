@@ -26,7 +26,7 @@
 | **C++**         | ![C++](https://skillicons.dev/icons?i=cpp)                 | ★★★☆☆  || **Lua**         | ![Lua](https://skillicons.dev/icons?i=lua)               | ★★★☆☆  || **MySQL**       | ![MySQL](https://skillicons.dev/icons?i=mysql)           | ★★★★☆  |
 | **Node.js**     | ![Node.js](https://skillicons.dev/icons?i=nodejs)          | ★★★★☆  || **Git**         | ![Git](https://skillicons.dev/icons?i=git)               | ★★★★☆  || **Linux**       | ![Linux](https://skillicons.dev/icons?i=linux)           | ★★★☆☆  |
 
-#### Mastery Levels Legend
+#### **Mastery Levels Legend**
 
 | Mastery Level | Description |
 |---------------|-------------|
