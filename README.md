@@ -20,11 +20,11 @@
 
 | Skill       | Icon | Mastery |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Mastery |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Mastery |
 |-------------|------|---------|-----------------|-------------|------|---------|-----------------|-------------|------|---------|
-| **Java**        | ![Java](https://skillicons.dev/icons?i=java)               | ★★★★★  || **JavaScript**  | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ★★★★☆  || **TypeScript**  | ![TypeScript](https://skillicons.dev/icons?i=typescript) | ★★★★☆  |
-| **Python**      | ![Python](https://skillicons.dev/icons?i=python)           | ★★★★☆  || **Kotlin**      | ![Kotlin](https://skillicons.dev/icons?i=kotlin)         | ★★★☆☆  || **C**           | ![C](https://skillicons.dev/icons?i=c)                   | ★★★★☆  |
-| **C++**         | ![C++](https://skillicons.dev/icons?i=cpp)                 | ★★★☆☆  || **Lua**         | ![Lua](https://skillicons.dev/icons?i=lua)               | ★★★☆☆  || **HTML**        | ![HTML](https://skillicons.dev/icons?i=html)             | ★★★★★  |
-| **CSS**         | ![CSS](https://skillicons.dev/icons?i=css)                 | ★★★★★  || **Node.js**     | ![Node.js](https://skillicons.dev/icons?i=nodejs)        | ★★★★☆  || **MongoDB**     | ![MongoDB](https://skillicons.dev/icons?i=mongodb)       | ★★★☆☆  |
-| **MySQL**       | ![MySQL](https://skillicons.dev/icons?i=mysql)             | ★★★★☆  || **Git**         | ![Git](https://skillicons.dev/icons?i=git)               | ★★★★☆  || **Linux**       | ![Linux](https://skillicons.dev/icons?i=linux)           | ★★★☆☆  |
+| **Java**        | ![Java](https://skillicons.dev/icons?i=java)               | ★★★★★  || **JavaScript**  | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ★★★★☆  || **HTML**        | ![HTML](https://skillicons.dev/icons?i=html)             | ★★★★★  |
+| **Kotlin**      | ![Kotlin](https://skillicons.dev/icons?i=kotlin)           | ★★★☆☆  || **TypeScript**  | ![TypeScript](https://skillicons.dev/icons?i=typescript) | ★★★★☆  || **CSS**         | ![CSS](https://skillicons.dev/icons?i=css)               | ★★★★★  |
+| **C**           | ![C](https://skillicons.dev/icons?i=c)                     | ★★★★☆  || **Python**      | ![Python](https://skillicons.dev/icons?i=python)         | ★★★★☆  || **MongoDB**     | ![MongoDB](https://skillicons.dev/icons?i=mongodb)       | ★★★☆☆  |
+| **C++**         | ![C++](https://skillicons.dev/icons?i=cpp)                 | ★★★☆☆  || **Lua**         | ![Lua](https://skillicons.dev/icons?i=lua)               | ★★★☆☆  || **MySQL**       | ![MySQL](https://skillicons.dev/icons?i=mysql)           | ★★★★☆  |
+| **Node.js**     | ![Node.js](https://skillicons.dev/icons?i=nodejs)          | ★★★★☆  || **Git**         | ![Git](https://skillicons.dev/icons?i=git)               | ★★★★☆  || **Linux**       | ![Linux](https://skillicons.dev/icons?i=linux)           | ★★★☆☆  |
 
 </div>
 
