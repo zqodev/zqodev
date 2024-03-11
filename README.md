@@ -12,16 +12,33 @@
 
 ###
 
-<h2 align="center">Technical Skills :</h2>
+<h2 align="center">Technical Skills</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,kotlin,c,cpp,lua,html,css"/><br>
-    <img src="https://skillicons.dev/icons?i=sass,markdown,nodejs,mongodb,mysql,git,github,idea,linux"/><br>
+
+| Compétence    | Icône                                                      | Maîtrise                |
+|---------------|------------------------------------------------------------|-------------------------|
+| Java          | ![Java](https://skillicons.dev/icons?i=java)               | ★★★★★ |
+| JavaScript    | ![JavaScript](https://skillicons.dev/icons?i=javascript)   | ★★★☆☆ |
+| TypeScript    | ![TypeScript](https://skillicons.dev/icons?i=typescript)   | ★★★☆☆ |
+| Python        | ![Python](https://skillicons.dev/icons?i=python)           | ★★★★☆ |
+| Kotlin        | ![Kotlin](https://skillicons.dev/icons?i=kotlin)           | ★★★☆☆ |
+| C             | ![C](https://skillicons.dev/icons?i=c)                     | ★★★★☆ |
+| C++           | ![C++](https://skillicons.dev/icons?i=cpp)                 | ★★☆☆☆ |
+| Lua           | ![Lua](https://skillicons.dev/icons?i=lua)                 | ★★★☆☆ |
+| HTML          | ![HTML](https://skillicons.dev/icons?i=html)               | ★★★★★ |
+| CSS           | ![CSS](https://skillicons.dev/icons?i=css)                 | ★★★★★ |
+| Node.js       | ![Node.js](https://skillicons.dev/icons?i=nodejs)          | ★★★★☆ |
+| MongoDB       | ![MongoDB](https://skillicons.dev/icons?i=mongodb)         | ★★★☆☆ |
+| MySQL         | ![MySQL](https://skillicons.dev/icons?i=mysql)             | ★★★★☆ |
+| Git           | ![Git](https://skillicons.dev/icons?i=git)                 | ★★★★☆ |
+| Linux         | ![Linux](https://skillicons.dev/icons?i=linux)             | ★★★☆☆ |
+
 </div>
 
 ###
 
-<h2 align="center">Stats :</h2>
+<h2 align="center">Stats</h2>
 
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=zqodev&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
@@ -29,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zqodev&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
 </div>
 
-<h2 align="center">Projects :</h2>
+<h2 align="center">Projects</h2>
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OpalLanguage&repo=Opal&theme=transparent" alt="Opal Repository Stats">
