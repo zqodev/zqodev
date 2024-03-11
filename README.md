@@ -26,6 +26,15 @@
 | **C++**         | ![C++](https://skillicons.dev/icons?i=cpp)                 | ★★★☆☆  || **Lua**         | ![Lua](https://skillicons.dev/icons?i=lua)               | ★★★☆☆  || **MySQL**       | ![MySQL](https://skillicons.dev/icons?i=mysql)           | ★★★★☆  |
 | **Node.js**     | ![Node.js](https://skillicons.dev/icons?i=nodejs)          | ★★★★☆  || **Git**         | ![Git](https://skillicons.dev/icons?i=git)               | ★★★★☆  || **Linux**       | ![Linux](https://skillicons.dev/icons?i=linux)           | ★★★☆☆  |
 
+#### Mastery Levels Legend
+
+| Mastery Level | Description |
+|---------------|-------------|
+| ★★★★★         | Comprehensive expertise, can autonomously manage complex projects. |
+| ★★★★☆         | Strong proficiency, capable of handling advanced tasks efficiently. |
+| ★★★☆☆         | Solid grasp of basics and some advanced concepts, requires minimal guidance. |
+| ★★☆☆☆         | Understands fundamental principles, needs guidance for most tasks. |
+
 </div>
 
 ###
