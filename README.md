@@ -4,43 +4,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-</picture>
-
-###
-
-<h2 align="center">Technical Skills</h2>
-
-<div align="center">
-
-#### **Skills & Mastery Levels**
-
-| Skill       | Icon | Mastery |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Mastery |&nbsp;&nbsp;&nbsp;| Skill       | Icon | Mastery |
-|-------------|------|---------|-----------------|-------------|------|---------|-----------------|-------------|------|---------|
-| **Java**        | ![Java](https://skillicons.dev/icons?i=java)               | ★★★★★  || **JavaScript**  | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ★★★★☆  || **HTML**        | ![HTML](https://skillicons.dev/icons?i=html)             | ★★★★★  |
-| **Kotlin**      | ![Kotlin](https://skillicons.dev/icons?i=kotlin)           | ★★★☆☆  || **TypeScript**  | ![TypeScript](https://skillicons.dev/icons?i=typescript) | ★★★★☆  || **CSS**         | ![CSS](https://skillicons.dev/icons?i=css)               | ★★★★★  |
-| **C**           | ![C](https://skillicons.dev/icons?i=c)                     | ★★★★☆  || **Python**      | ![Python](https://skillicons.dev/icons?i=python)         | ★★★★☆  || **MongoDB**     | ![MongoDB](https://skillicons.dev/icons?i=mongodb)       | ★★★☆☆  |
-| **C++**         | ![C++](https://skillicons.dev/icons?i=cpp)                 | ★★☆☆☆  || **Lua**         | ![Lua](https://skillicons.dev/icons?i=lua)               | ★★★☆☆  || **MySQL**       | ![MySQL](https://skillicons.dev/icons?i=mysql)           | ★★★★☆  |
-| **Node.js**     | ![Node.js](https://skillicons.dev/icons?i=nodejs)          | ★★★★☆  || **Git**         | ![Git](https://skillicons.dev/icons?i=git)               | ★★★★☆  || **Linux**       | ![Linux](https://skillicons.dev/icons?i=linux)           | ★★★☆☆  |
-
-#### **Mastery Levels Legend**
-
-| Mastery Level | Description |
-|---------------|-------------|
-| ★★★★★         | Comprehensive expertise, can autonomously manage complex projects. |
-| ★★★★☆         | Strong proficiency, capable of handling advanced tasks efficiently. |
-| ★★★☆☆         | Solid grasp of basics and some advanced concepts, requires minimal guidance. |
-| ★★☆☆☆         | Understands fundamental principles, needs guidance for most tasks. |
-
-</div>
-
-###
-
-<div align="center">
-  <img height="120" src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg"  />
-</div>
-
-###
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,js,ts,py,html,mysql,mongodb,git,arch" />
+  </a>
+</p>
